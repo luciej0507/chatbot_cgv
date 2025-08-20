@@ -2,7 +2,7 @@
 
 # Lexybot, l'assistant Chatbot qui lit les Conditions Générales de Ventes pour vous !
 
-**Entreprise :** Mon eshop (filiale de EcomLegal)  
+**Entreprise :** Mon eshop (filiale imaginaire de EcomLegal)  
 **Secteur :** E-commerce  
 **Auteurs :** Lucie & Cécile  
 **Date :** Juillet 2025
@@ -52,15 +52,15 @@ Lexybot utilise un modèle de langage avancé (LLM) d’OpenAI, le **gpt-4.1-nan
 
 1. **Cloner le dépôt :**
 
-2. **Lancer le conteneur MySQL via Docker :**
+2. **Lancer le conteneur MySQL via Docker**
 
 3. **Configurer la base de données MySQL** (via Adminer accessible sur `http://localhost:8080`) avec les données CGV au format JSONL.
 
-4. **Installer les dépendances Python :**
+4. **Installer les dépendances Python**
 
 5. **Configurer les variables d’environnement** (clé API OpenAI, accès base de données).
 
-6. **Démarrer le serveur chatbot :**
+6. **Démarrer le serveur chatbot**
 
 ---
 
